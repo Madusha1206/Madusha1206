@@ -15,9 +15,13 @@ I am a dedicated and ambitious third-year undergraduate specializing in Electric
 🛠️ **Top Project**
 
 Nexora – Real-Time Intelligent Capacitor Bank Predictor
+
 ✅ Predicts upcoming Active Power demand
+
 ✅ Calculates optimal Capacitor Bank values
+
 ✅ Recommends reactive power compensation strategies
+
 ✅ Visualizes and analyzes results in real time using a Python desktop app integrated with Firebase Admin
 
 💼 **Skills**
