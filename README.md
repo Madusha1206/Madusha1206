@@ -4,7 +4,7 @@
 
 🚀 **About Me**
 
-I am a dedicated and ambitious third-year undergraduate specializing in Electrical & Information Engineering. My interests revolve around Embedded Systems, Robotics & Automation, IoT, Wireless Communication, Machine Learning, and Power Distribution System Design. I am passionate about solving real-world challenges and contributing to innovative technology solutions.
+I am a dedicated and ambitious third-year undergraduate specializing in Electrical & Information Engineering. My interests revolve around Embedded Systems, Robotics & Automation, IoT, Wireless Communication, Webots simulatings  and Power Distribution System Design. I am passionate about solving real-world challenges and contributing to innovative technology solutions.
 
 🔬 Passionate about technology-driven innovation and problem-solving in electrical & electronic engineering
 
