@@ -26,10 +26,10 @@ Nexora – Real-Time Intelligent Capacitor Bank Predictor
 
 💼 **Skills**
 
-Fields: IoT, Wireless Communication, Embedded Systems
+Fields: IoT, Wireless Communication, Embedded Systems,PCB designing
 Programming: C++, Python, MATLAB
-Frameworks: NodeRED, Firebase, Flutter, Arduino, OpenCV
-Software: Altium Designer, SolidWorks, Cisco Packet Tracer
+Frameworks: Flutter, Arduino, OpenCV
+Software: EasyEDA,Webots, Cisco Packet Tracer
 
 🎵 **Activities & Societies**
 
