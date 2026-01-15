@@ -4,11 +4,11 @@
 
 🚀 **About Me**
 
-I am a dedicated and ambitious third-year undergraduate specializing in Electrical & Information Engineering. My interests revolve around Embedded Systems, Robotics & Automation, IoT, Wireless Communication, Webots simulatings  and Power Distribution System Design. I am passionate about solving real-world challenges and contributing to innovative technology solutions.
+I am a dedicated and ambitious third-year undergraduate specializing in Electrical & Information Engineering. My interests revolve around Embedded Systems, Robotics & Automation, IoT,PCB designing and Power Distribution System Design. I am passionate about solving real-world challenges and contributing to innovative technology solutions.
 
 🔬 Passionate about technology-driven innovation and problem-solving in electrical & electronic engineering
 
-🌐 Skilled in embedded application development, wireless systems, and IoT for real-world challenges
+🌐 Skilled in embedded application development, Electronic and PCB designing, and IoT for real-world challenges
 
 🤖 Builder of smart devices, robotics, and connected systems with hands-on project leadership
 
@@ -26,10 +26,10 @@ Nexora – Real-Time Intelligent Capacitor Bank Predictor
 
 💼 **Skills**
 
-Fields: IoT, Wireless Communication, Embedded Systems,PCB designing
+Fields: IoT,Embedded Systems,PCB designing
 Programming: C++, Python, MATLAB
 Frameworks: Flutter, Arduino, OpenCV
-Software: EasyEDA,Webots, Cisco Packet Tracer
+Software: EasyEDA,Webots,VS code,MPLAB IDE
 
 🎵 **Activities & Societies**
 
