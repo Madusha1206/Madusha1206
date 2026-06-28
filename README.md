@@ -1,10 +1,7 @@
-                                                              # Hi, I'm Madushani Munasinghe 👋
-                                                              
-                                                              ### Electrical & Information Engineering Undergraduate
-                                                              
-                                                              **University of Ruhuna, Sri Lanka**
+Hi, I'm Madushani Munasinghe 👋
 
----
+Electrical & Information Engineering Undergraduate
+University of Ruhuna, Sri Lanka
 
 ## About Me
 
