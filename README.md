@@ -1,46 +1,92 @@
-                                                        Hi I'm  Madushani Munasinghe 👋
-                                            Electrical & Information Engineering Undergraduate
-                                                    University of Ruhuna, Sri Lanka
+# Hi, I'm Madushani Munasinghe 👋
 
-🚀 **About Me**
+### Electrical & Information Engineering Undergraduate
 
-I am a dedicated and ambitious third-year undergraduate specializing in Electrical & Information Engineering. My interests revolve around Embedded Systems, Robotics & Automation, IoT,PCB designing and Power Distribution System Design. I am passionate about solving real-world challenges and contributing to innovative technology solutions.
+**University of Ruhuna, Sri Lanka**
 
-🔬 Passionate about technology-driven innovation and problem-solving in electrical & electronic engineering
+---
 
-🌐 Skilled in embedded application development, Electronic and PCB designing, and IoT for real-world challenges
+## 🚀 About Me
 
-🤖 Builder of smart devices, robotics, and connected systems with hands-on project leadership
+I am a third-year undergraduate in Electrical & Information Engineering at the University of Ruhuna with a strong interest in **Embedded Systems, Robotics & Automation, IoT, PCB Design, and Power Distribution System Design**.
 
-🛠️ **Top Project**
+I enjoy transforming ideas into practical engineering solutions by combining hardware and software. Whether it's designing embedded systems, developing IoT applications, or creating intelligent automation solutions, I am always eager to learn, innovate, and take on new technical challenges.
 
-Nexora – Real-Time Intelligent Capacitor Bank Predictor
+I am passionate about applying engineering knowledge to solve real-world problems while continuously improving my technical and professional skills.
 
-✅ Predicts upcoming Active Power demand
+---
 
-✅ Calculates optimal Capacitor Bank values
+## 🔬 Areas of Interest
 
-✅ Recommends reactive power compensation strategies
+* Embedded Systems Development
+* Internet of Things (IoT)
+* Robotics & Automation
+* PCB Design and Electronic Circuit Development
+* Power Distribution System Design
+* Intelligent Electrical Systems
 
-✅ Visualizes and analyzes results in real time using a Python desktop app integrated with Firebase Admin
+---
 
-💼 **Skills**
+## 🛠 Featured Project
 
-Fields: IoT,Embedded Systems,PCB designing
-Programming: C++, Python, MATLAB
-Frameworks: Flutter, Arduino, OpenCV
-Software: EasyEDA,Webots,VS code,MPLAB IDE
+### **Nexora – Real-Time Intelligent Capacitor Bank Predictor**
 
-🎵 **Activities & Societies**
+An intelligent power management system designed to improve reactive power compensation through real-time analysis.
 
-Member of the Ruhuna University Girls’ Swimming Team
+**Key Features**
 
-📫 **Get in Touch**
+* Predicts upcoming active power demand
+* Calculates the optimal capacitor bank configuration
+* Recommends reactive power compensation strategies
+* Provides real-time visualization and analysis through a Python desktop application integrated with Firebase Admin
 
-📧 Email: buddhinimadushani988@gmail.com
+---
 
-🔗 LinkedIn: www.linkedin.com/in/madushani-munasinghe
+## 💻 Technical Skills
 
-📞 Contact: +94 77 984 5652
+### **Engineering Fields**
 
-✨ Let’s connect and innovate together!
+* Embedded Systems
+* Internet of Things (IoT)
+* PCB Design
+* Robotics & Automation
+
+### **Programming Languages**
+
+* C++
+* Python
+* MATLAB
+
+### **Frameworks & Platforms**
+
+* Flutter
+* Arduino
+* OpenCV
+
+### **Software & Development Tools**
+
+* EasyEDA
+* Webots
+* Visual Studio Code
+* MPLAB X IDE
+
+---
+
+## 🎯 Leadership & Activities
+
+* Member of the University of Ruhuna Girls' Swimming Team
+* Passionate about collaborative engineering projects and technology-driven innovation
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [buddhinimadushani988@gmail.com](mailto:buddhinimadushani988@gmail.com)
+
+🔗 **LinkedIn:** [www.linkedin.com/in/madushani-munasinghe](http://www.linkedin.com/in/madushani-munasinghe)
+
+📞 **Contact:** +94 77 984 5652
+
+---
+
+⭐ *I am always interested in collaborating on projects related to embedded systems, IoT, robotics, PCB design, and intelligent engineering solutions. Feel free to connect—I would be happy to collaborate and learn together.*
