@@ -31,12 +31,12 @@ An intelligent system will plan to make to smartly transform the carbonic waste 
 
 **Key Features**
 
-1.Real-time monitoring of process conditions.
-2.AI-based prediction of biochar quality and process optimization.
-3.Mobile application for remote monitoring and control.
-4.Cloud-based data logging and production history.
-5.Contributes to carbon reduction and circular economy practices.
-6.Human-centered automation following Industry 5.0 principles.
+* Real-time monitoring of process conditions.
+* AI-based prediction of biochar quality and process optimization.
+* Mobile application for remote monitoring and control.
+* Cloud-based data logging and production history.
+* Contributes to carbon reduction and circular economy practices.
+* Human-centered automation following Industry 5.0 principles.
 ---
 
 ##  Technical Skills
