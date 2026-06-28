@@ -1,8 +1,7 @@
-<div align="center">Hi, I'm <strong>Madushani Munasinghe</strong> 👋</div>
-<div align="center">Electrical & Information Engineering Undergraduate</div>
+# Hi, I'm Madushani Munasinghe
+### Electrical & Information Engineering Undergraduate
+### University of Ruhuna, Sri Lanka
 
-<p align="center"> University of Ruhuna, Sri Lanka</p>
----
 ## About Me
 
 I am a third-year undergraduate in Electrical & Information Engineering at the University of Ruhuna with a strong interest in **Embedded Systems, Robotics & Automation, IoT, PCB Design, and Power Distribution System Design**.
