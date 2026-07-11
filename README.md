@@ -1,9 +1,11 @@
-<h1 align="center">Hi ,I'm Madushani Munasinghe👋</h1>
+<h1 align="center">Hi, I'm Madushani Munasinghe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+I'm+Madushani+Munasinghe.;Electrical+%26+Information+Engineering+Undergraduate.;Specializing+in+Electronic+Engineering.;University+of+Ruhuna,+Sri+Lanka.;Passionate+about+Embedded+Systems,+IoT,+and+PCB+Design." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+I'm+Madushani+Munasinghe.;Electrical+%26+Information+Engineering+Undergraduate.;Specializing+in+Electronic+Engineering.;University+of+Ruhuna,+Sri+Lanka.;Passionate+about+Embedded+Systems,+IoT,+and+PCB+Design."
+    alt="Typing introduction"
+  />
 </p>
-
 
 <p align="center">
   Passionate about Embedded Systems, Robotics, IoT, PCB Design, and Computer Vision
@@ -21,114 +23,170 @@
 
 <h2 align="center">My GitHub Stats</h2>
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Madusha1206&show_icons=true&theme=radical&hide_border=false"
-    alt="GitHub statistics"
-  />
+<div align="center">
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusha1206&layout=compact&theme=radical&hide_border=false"
-    alt="Most used languages"
-  />
-</p>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=Madusha1206&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+  alt="Madushani's GitHub statistics"
+/>
 
-<p align="center">
-  <img
-    width="98%"
-    src="https://streak-stats.demolab.com?user=Madusha1206&theme=radical&hide_border=false"
-    alt="GitHub contribution streak"
-  />
-</p>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusha1206&layout=compact&theme=radical&hide_border=false&langs_count=8"
+  alt="Madushani's most used languages"
+/>
+
+<br><br>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Madusha1206&theme=radical&hide_border=false"
+  alt="Madushani's GitHub contribution streak"
+/>
+
+</div>
 
 ---
 
 <h2 align="center">My Skills & Experience</h2>
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" alt="Programming languages"/>
-</p>
+<h3>Languages</h3>
 
-### Frameworks & Libraries
+<img
+  src="https://skillicons.dev/icons?i=c,cpp,python,matlab"
+  alt="C, C++, Python and MATLAB"
+/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,opencv,arduino" alt="Frameworks and libraries"/>
-</p>
+<h3>Frameworks & Libraries</h3>
 
-### Databases
+<img
+  src="https://skillicons.dev/icons?i=flutter,react,opencv,arduino"
+  alt="Flutter, React, OpenCV and Arduino"
+/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Databases"/>
-</p>
+<h3>Databases</h3>
 
-### Tools
+<img
+  src="https://skillicons.dev/icons?i=firebase,mongodb,mysql"
+  alt="Firebase, MongoDB and MySQL"
+/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,npm,postman" alt="Development tools"/>
-</p>
+<h3>Tools</h3>
 
-### IDEs
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,npm,postman"
+  alt="Git, GitHub, Docker, npm and Postman"
+/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm" alt="IDEs"/>
-</p>
+<h3>IDEs</h3>
 
-### Simulation, PCB and CAD Software
+<img
+  src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm"
+  alt="Visual Studio Code, Visual Studio, Android Studio and PyCharm"
+/>
 
-<p>
-  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA"/>
-  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" alt="Proteus"/>
-  <img src="https://img.shields.io/badge/Webots-263238?style=for-the-badge" alt="Webots"/>
-  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-</p>
+<h3>Simulation, PCB and CAD Software</h3>
 
-### Operating Systems
+<img
+  src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white"
+  alt="EasyEDA"
+/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating systems"/>
-</p>
+<img
+  src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"
+  alt="Proteus"
+/>
+
+<img
+  src="https://img.shields.io/badge/Webots-263238?style=for-the-badge"
+  alt="Webots"
+/>
+
+<img
+  src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white"
+  alt="MATLAB"
+/>
+
+<img
+  src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=mathworks&logoColor=white"
+  alt="Simulink"
+/>
+
+<h3>Operating Systems</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=windows,linux"
+  alt="Windows and Linux"
+/>
+
+</div>
 
 ---
 
 <h2 align="center">Featured Projects</h2>
 
-### Taxi Meter Mobile Application
+<div align="center">
 
-A Flutter, Node.js, Express, and MongoDB-based taxi meter platform with customer, driver, and administrator interfaces.
+<h3>Taxi Meter Mobile Application</h3>
 
-### Micromouse Maze-Solving Robot
+<p>
+  A Flutter, Node.js, Express, and MongoDB-based taxi meter platform with
+  customer, driver, and administrator interfaces.
+</p>
 
-An ESP32-based autonomous robot using distance sensors, an IMU, wall-following, and flood-fill algorithms.
+<h3>Micromouse Maze-Solving Robot</h3>
 
-### IoT-Enabled Rice Husk Biochar System
+<p>
+  An ESP32-based autonomous robot using distance sensors, an IMU,
+  wall-following, and flood-fill algorithms.
+</p>
 
-An ESP32-based monitoring and control system for converting rice husk into biochar using temperature, gas, and weight sensors.
+<h3>IoT-Enabled Rice Husk Biochar System</h3>
+
+<p>
+  An ESP32-based monitoring and control system for converting rice husk into
+  biochar using temperature, gas, and weight sensors.
+</p>
+
+</div>
 
 ---
 
 <h2 align="center">My Socials</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/madushani-munasinghe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/madushani-munasinghe/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:buddhinimadushani988@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/Madusha1206">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madusha1206&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Madusha1206&label=Profile%20Views&color=ff69b4&style=flat"
+    alt="Profile views"
+  />
 </p>
