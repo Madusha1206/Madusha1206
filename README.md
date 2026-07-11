@@ -21,17 +21,20 @@
 
 ---
 
-<<h2 align="center">My Github Stats</h2>
+<h2 align="center">My GitHub Stats</h2>
+
 <p align="center">
-    <img width="51%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Madusha1206&show=reviews,prs_merged&show_icons=true&theme=radical">
-    <img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Madusha1206&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8">
-    <br>
-    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Madusha1206&theme=radical&hide_border=false">
-<!--     <br>
-    <img src="https://komarev.com/ghpvc/?username=KiranGunathilaka"> -->
-</p>
+
+<img width="51%" src="https://github-readme-stats.vercel.app/api?username=Madusha1206&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusha1206&layout=compact&theme=radical&langs_count=8">
+
 <br>
----
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Madusha1206&theme=radical">
+
+</p>
+
 
 <h2 align="center">My Skills & Experience</h2>
 
@@ -74,30 +77,23 @@
 
 <h3>Simulation, PCB and CAD Software</h3>
 
-<img
-  src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white"
-  alt="EasyEDA"
-/>
+<h3 align="center">Simulation, PCB & CAD Software</h3>
 
-<img
-  src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"
-  alt="Proteus"
-/>
+<p align="center">
 
-<img
-  src="https://img.shields.io/badge/Webots-263238?style=for-the-badge"
-  alt="Webots"
-/>
+<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logoColor=white" alt="EasyEDA"/>
 
-<img
-  src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white"
-  alt="MATLAB"
-/>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" alt="Proteus"/>
 
-<img
-  src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=mathworks&logoColor=white"
-  alt="Simulink"
-/>
+<img src="https://img.shields.io/badge/Webots-263238?style=for-the-badge" alt="Webots"/>
+
+<img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB"/>
+
+<img src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=Mathworks&logoColor=white" alt="Simulink"/>
+
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logoColor=white" alt="Altium Designer"/>
+
+</p>
 
 <h3>Operating Systems</h3>
 
