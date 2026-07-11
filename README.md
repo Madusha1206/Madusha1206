@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+I'm+Madushani+Munasinghe.;Electrical+%26+Information+Engineering+Undergraduate.;Specializing+in+Electronic+Engineering.;University+of+Ruhuna,+Sri+Lanka.;Passionate+about+Embedded+Systems,+IoT,+and+PCB+Design."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=#8fce00&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+I'm+Madushani+Munasinghe.;Electrical+%26+Information+Engineering+Undergraduate.;Specializing+in+Electronic+Engineering.;University+of+Ruhuna,+Sri+Lanka.;Passionate+about+Embedded+Systems,+IoT,+and+PCB+Design."
     alt="Typing introduction"
   />
 </p>
