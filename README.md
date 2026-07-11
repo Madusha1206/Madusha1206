@@ -1,89 +1,134 @@
-## Hi, I'm Madushani Munasinghe 👋
-### Electrical & Information Engineering Undergraduate
-### University of Ruhuna, Sri Lanka
+<h1 align="center">Hi, I'm Madushani Munasinghe</h1>
 
----
-## About Me
+<p align="center">
+  <b>Electrical & Information Engineering Undergraduate</b><br>
+  University of Ruhuna, Sri Lanka
+</p>
 
-I am a third-year undergraduate in Electrical & Information Engineering at the University of Ruhuna with a strong interest in **Embedded Systems, Robotics & Automation, IoT, PCB Design, and Power Distribution System Design**.
+<p align="center">
+  Passionate about Embedded Systems, Robotics, IoT, PCB Design, and Computer Vision
+</p>
 
-I enjoy transforming ideas into practical engineering solutions by combining hardware and software. Whether it's designing embedded systems, developing IoT applications, or creating intelligent automation solutions, I am always eager to learn, innovate, and take on new technical challenges.
-I am passionate about applying engineering knowledge to solve real-world problems while continuously improving my technical and professional skills.
+<p align="center">
+  Eager to specialize in Embedded Systems and explore new technology domains
+</p>
 
----
-
-## Areas of Interest
-
-* Embedded Systems Development
-* Internet of Things (IoT)
-* Robotics & Automation
-* PCB Design and Electronic Circuit Development
-* Power Distribution System Design
-
+<p align="center">
+  Have a project or collaboration in mind? Let’s connect!
+</p>
 
 ---
 
-## Featured Project
+<h2 align="center">My GitHub Stats</h2>
 
-### **Synalix – Biochar Production by using ricehusk**
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false"
+    alt="GitHub statistics"
+  />
 
-An intelligent system will plan to make to smartly transform the carbonic waste into very valuable product called biochar which has very higher demand around the world.In sri lanka we have lot of that waste but no any method to get the biochar form that easily.
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false"
+    alt="Most used languages"
+  />
+</p>
 
-**Key Features**
-
-* Real-time monitoring of process conditions.
-* AI-based prediction of biochar quality and process optimization.
-* Mobile application for remote monitoring and control.
-* Cloud-based data logging and production history.
-* Contributes to carbon reduction and circular economy practices.
-* Human-centered automation following Industry 5.0 principles.
----
-
-##  Technical Skills
-
-### **Engineering Fields**
-
-* Embedded Systems
-* Internet of Things (IoT)
-* PCB Design
-* Robotics & Automation
-
-### **Programming Languages**
-
-* C++
-* Python
-* MATLAB
-
-### **Frameworks & Platforms**
-
-* Flutter
-* Arduino
-* OpenCV
-
-### **Software & Development Tools**
-
-* EasyEDA
-* Webots
-* Visual Studio Code
-* MPLAB X IDE
+<p align="center">
+  <img
+    width="98%"
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=false"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 ---
 
-##  Leadership & Activities
+<h2 align="center">My Skills & Experience</h2>
 
-* Faculty captain of the University of Ruhuna Girls' Swimming Team
-* Passionate about collaborative engineering projects and technology-driven innovation
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,matlab" alt="Programming languages"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,opencv,bootstrap,arduino" alt="Frameworks and libraries"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite" alt="Databases"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman" alt="Development tools"/>
+</p>
+
+### IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,idea" alt="IDEs"/>
+</p>
+
+### Simulation, PCB and CAD Software
+
+<p>
+  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA"/>
+  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" alt="Proteus"/>
+  <img src="https://img.shields.io/badge/Webots-263238?style=for-the-badge" alt="Webots"/>
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating systems"/>
+</p>
 
 ---
 
-## Let's Connect
+<h2 align="center">Featured Projects</h2>
 
-📧 **Email:** [buddhinimadushani988@gmail.com](mailto:buddhinimadushani988@gmail.com)
+### Taxi Meter Mobile Application
 
-🔗 **LinkedIn:** [www.linkedin.com/in/madushani-munasinghe](http://www.linkedin.com/in/madushani-munasinghe)
+A Flutter, Node.js, Express, and MongoDB-based taxi meter platform with customer, driver, and administrator interfaces.
 
-📞 **Contact:** +94 77 984 5652
+### Micromouse Maze-Solving Robot
+
+An ESP32-based autonomous robot using distance sensors, an IMU, wall-following, and flood-fill algorithms.
+
+### IoT-Enabled Rice Husk Biochar System
+
+An ESP32-based monitoring and control system for converting rice husk into biochar using temperature, gas, and weight sensors.
 
 ---
 
-*I am always interested in collaborating on projects related to embedded systems, IoT, robotics, PCB design, and intelligent engineering solutions. Feel free to connect—I would be happy to collaborate and learn together.*
+<h2 align="center">My Socials</h2>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views"/>
+</p>
