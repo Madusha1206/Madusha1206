@@ -21,32 +21,16 @@
 
 ---
 
-<h2 align="center">My GitHub Stats</h2>
-
-<div align="center">
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Madusha1206&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-  alt="Madushani's GitHub statistics"
-/>
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusha1206&layout=compact&theme=radical&hide_border=false&langs_count=8"
-  alt="Madushani's most used languages"
-/>
-
-<br><br>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Madusha1206&theme=radical&hide_border=false"
-  alt="Madushani's GitHub contribution streak"
-/>
-
-</div>
-
+<<h2 align="center">My Github Stats</h2>
+<p align="center">
+    <img width="51%" src="https://github-readme-stats-gules-two-98.vercel.app/api?username=Madusha1206&show=reviews,prs_merged&show_icons=true&theme=radical">
+    <img width="42%" src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=Madusha1206&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8">
+    <br>
+    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Madusha1206&theme=radical&hide_border=false">
+<!--     <br>
+    <img src="https://komarev.com/ghpvc/?username=KiranGunathilaka"> -->
+</p>
+<br>
 ---
 
 <h2 align="center">My Skills & Experience</h2>
