@@ -114,11 +114,11 @@ An ESP32-based monitoring and control system for converting rice husk into bioch
 <h2 align="center">My Socials</h2>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/madushani-munasinghe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:buddhinimadushani988@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -130,5 +130,5 @@ An ESP32-based monitoring and control system for converting rice husk into bioch
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Madusha1206&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views"/>
 </p>
