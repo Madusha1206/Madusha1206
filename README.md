@@ -21,19 +21,7 @@
 
 ---
 
-<h2 align="center">My GitHub Stats</h2>
 
-<p align="center">
-
-<img width="51%" src="https://github-readme-stats.vercel.app/api?username=Madusha1206&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusha1206&layout=compact&theme=radical&langs_count=8">
-
-<br>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Madusha1206&theme=radical">
-
-</p>
 
 
 <h2 align="center">My Skills & Experience</h2>
