@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Madushani Munasinghe</h1>
+<h1 align="center">Hi 👋, I'm Madushani Munasinghe</h1>
 
 <p align="center">
-  <b>Electrical & Information Engineering Undergraduate</b><br>
-  University of Ruhuna, Sri Lanka
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+I'm+Madushani+Munasinghe.;Electrical+%26+Information+Engineering+Undergraduate.;Specializing+in+Electronic+Engineering.;University+of+Ruhuna,+Sri+Lanka.;Passionate+about+Embedded+Systems,+IoT,+and+PCB+Design." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   Passionate about Embedded Systems, Robotics, IoT, PCB Design, and Computer Vision
@@ -24,13 +24,13 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=Madusha1206&show_icons=true&theme=radical&hide_border=false"
     alt="GitHub statistics"
   />
 
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusha1206&layout=compact&theme=radical&hide_border=false"
     alt="Most used languages"
   />
 </p>
@@ -38,7 +38,7 @@
 <p align="center">
   <img
     width="98%"
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=false"
+    src="https://streak-stats.demolab.com?user=Madusha1206&theme=radical&hide_border=false"
     alt="GitHub contribution streak"
   />
 </p>
@@ -50,31 +50,31 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,matlab" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" alt="Programming languages"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,opencv,bootstrap,arduino" alt="Frameworks and libraries"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,opencv,arduino" alt="Frameworks and libraries"/>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Databases"/>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,npm,postman" alt="Development tools"/>
 </p>
 
 ### IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,idea" alt="IDEs"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm" alt="IDEs"/>
 </p>
 
 ### Simulation, PCB and CAD Software
