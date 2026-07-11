@@ -75,7 +75,6 @@
   alt="Visual Studio Code, Visual Studio, Android Studio and PyCharm"
 />
 
-<h3>Simulation, PCB and CAD Software</h3>
 
 <h3 align="center">Simulation, PCB & CAD Software</h3>
 
