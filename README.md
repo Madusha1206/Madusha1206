@@ -78,7 +78,7 @@
 
 <img src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge&logo=Mathworks&logoColor=white" alt="Simulink"/>
 
-<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logoColor=white" alt="Altium Designer"/>
+
 
 </p>
 
