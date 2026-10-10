@@ -6,9 +6,9 @@
     alt="Typing introduction"
   />
 </p>
-
+,
 <p align="center">
-  Passionate about Embedded Systems, Robotics, IoT, PCB Design, and Computer Vision
+  Passionate about Embedded Systems, AI & ML IoT, PCB Design, and Computer Vision
 </p>
 
 <p align="center">
